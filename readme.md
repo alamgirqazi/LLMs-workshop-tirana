@@ -45,12 +45,6 @@ source ~/.zshrc
 
 conda --version
 
- <!-- Example Usage:  -->
-conda create -n py310 python=3.10
-
-conda activate py310
-
-python --version
 ```
 
 ### Windows 
@@ -109,11 +103,6 @@ source ~/.bashrc
 
 conda --version
 
-conda create -n py310 python=3.10
-
-conda activate py310
-
-python --version
 ```
 
 ## Node.js & nvm 
@@ -137,7 +126,7 @@ source ~/.zshrc
 nvm install 22.14.0
 nvm use 22.14.0
 
-node --version  # Should show v22.14.0
+node --version
 ```
 
 ### Ubuntu 
