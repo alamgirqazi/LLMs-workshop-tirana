@@ -7,6 +7,7 @@ There are few pre-requisites for installations.
 - Python3
 - Node.js
 - Ollama
+- Create Account on Google AI Studio (FREE) [https://aistudio.google.com/](https://aistudio.google.com/)
 
 ## Python3 & Conda
 
