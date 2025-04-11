@@ -51,13 +51,15 @@ conda --version
 
 Make sure you have chocolatey package manager installed [chocolatey](https://chocolatey.org/)
 
+#### Python
+
 ```
 choco install python --version=3.10.0
 
 python --version
 ```
 
-#### Choco 
+#### Conda 
 
 ```
 choco install miniconda3
