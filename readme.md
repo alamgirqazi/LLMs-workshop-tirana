@@ -17,14 +17,12 @@ There are few pre-requisites for installations.
 ```
 brew install python@3.10
 
-# Add Python 3.10 to your PATH
 echo 'export PATH="/usr/local/opt/python@3.10/bin:$PATH"' >> ~/.zshrc
+
 source ~/.zshrc
 
-# Verify 
 python3.10 --version
 
-# Add an alias to your shell configuration file
 echo 'alias python=python3.10' >> ~/.zshrc
 
 source ~/.zshrc
@@ -67,7 +65,6 @@ choco install miniconda3
 conda --version
 
 ```
-
 
 ### Linux (Ubuntu)
 
@@ -130,6 +127,13 @@ nvm use 22.14.0
 
 node --version
 ```
+### Windows
+
+```
+choco install nodejs-lts
+
+node --version
+```
 
 ### Ubuntu 
 
@@ -154,14 +158,6 @@ nvm use 22.14.0
 
 node --version
 
-```
-
-### Windows
-
-```
-choco install nodejs-lts
-
-node --version
 ```
 
 ## Ollama
