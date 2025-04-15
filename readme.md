@@ -1,4 +1,4 @@
-# LLMs workshop - University of New York, Tirana
+# LLMs workshop - Polytechnic University of Tirana, Albania
 
 ## Installations
 
