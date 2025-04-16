@@ -5,7 +5,7 @@
 
 Link to [slides](https://github.com/alamgirqazi/LLMs-workshop-tirana/blob/main/slides/beyond-ChatGPT-LLMs-Tirana.pdf)
 
-![Beyond ChatGPT: Exploring Open & Local LLMs](slides/beyond-chatgpt-llms-tirana.png)
+![Beyond ChatGPT: Exploring Open & Local LLMs](beyond-chatgpt-llms-tirana.png)
 
 ## Installations
 
