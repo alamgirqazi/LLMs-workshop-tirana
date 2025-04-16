@@ -1,5 +1,9 @@
 # LLMs workshop - Polytechnic University of Tirana, Albania
 
+## Slides
+
+Link to [slides](https://github.com/alamgirqazi/LLMs-workshop-tirana/blob/main/slides/beyond-ChatGPT-LLMs-Tirana.pdf)
+
 ## Installations
 
 There are few pre-requisites for installations. 
